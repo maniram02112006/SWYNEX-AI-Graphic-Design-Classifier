@@ -41,6 +41,34 @@ A prototype that automatically suggests a graphic design style category for an i
 - Use a pretrained image classification model.
 - Suggest color palettes and complementary fonts.
 - Add recommendations for poster layouts.
+- ## Project Overview
+
+This project uses AI to classify graphic design posters into five design styles.
+
+## Design Categories
+
+- Cinematic
+- Minimalist
+- Typography
+- Sports
+- Vintage
+
+## Technologies Used
+
+- Python
+- TensorFlow / Keras
+- Google Colab
+
+## How to Run
+
+1. Open the notebook in Google Colab.
+2. Upload a poster image.
+3. Run the prediction cell.
+4. View the predicted design style.
+
+## Limitations
+
+The current dataset contains only a small number of illustrative samples. More diverse, labeled images are needed for reliable evaluation.
 
 ## Conclusion
 This project explores how AI can help organize graphic design assets and support creative workflows.
